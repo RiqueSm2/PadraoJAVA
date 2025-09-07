@@ -80,6 +80,7 @@ public class Padrao {
 
     sca.close(); /*fechando o sca */
 
+     /*TESTE GITHUB */
 
 }/*FIM VOID */
 }/*FIM PUBLIC CLASS */
